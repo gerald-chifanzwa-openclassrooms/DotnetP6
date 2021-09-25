@@ -294,7 +294,7 @@ Issues at the resolved status  belonging to the given product containing the key
 - _EXEC QueryResolvedIssuesWithKeyWordsForProductAndVersion 1,								    '1.0', 'TCP matrix';_
 
 
-## 20. Get all resolved issues within date range for a product containing list of keywords (all versions)
+## 20. Get all resolved issues within date range for a product containing list of keywords (single versions)
 
 ### Query name: QueryResolvedIssuesWithKeyWordsForProductAndVersionAndDateRange
 ### Parameters:
